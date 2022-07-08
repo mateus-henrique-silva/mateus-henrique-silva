@@ -1,4 +1,4 @@
- ## Hi dear 👋, I'm Mateus Henrique
+ ## Hi👋, I'm Mateus Henrique
 
 
 - 🔭 Currently working with Frontend and Ionic mobile developer;
@@ -28,7 +28,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
   ##
-  
+  ## &nbsp;Contact
 <div style="display: inline_block"> 
   <a href="https://instagram.com/_matthenrique_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
