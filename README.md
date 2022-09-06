@@ -2,7 +2,7 @@
 
 
 - 🔭 Currently working with Frontend and Ionic mobile developer;
-- 🌱 Studying Backend (node);
+- 🌱 Studying Backend (node|Java);
 - 💬 Ask me about React JS, Ionic, Web, JS, Python;
 - 😄 Pronouns: ele/dele.
 
