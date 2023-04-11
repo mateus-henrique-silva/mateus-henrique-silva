@@ -1,8 +1,7 @@
  ## Hi👋, I'm Mateus Henrique
 
 
-- 🔭 Currently working with Frontend and Ionic mobile developer;
-- 🌱 Studying Backend (node);
+- 🔭 Currently working with Backend GO;
 - 💬 Ask me about React JS, Golang, Web, JS, Python;
 
 
