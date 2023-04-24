@@ -14,7 +14,8 @@
 </div>
 
  
-## &nbsp;Techs Stack
+## &nbsp;Techs Stack!
+![Golang](https://img.shields.io/badge/-go-05122A?style=flat&logo=go)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -25,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
- ![Golang](https://img.shields.io/badge/-go-05122A?style=flat&logo=go)&nbsp;
+ 
 
   ##
   ## &nbsp;Contact
