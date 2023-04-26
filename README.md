@@ -4,18 +4,6 @@
 - 🔭 Currently working with Backend GO;
 - 💬 Ask me about React JS, Golang, Web, JS, Python;
 
-
-
-
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
- 
 ## &nbsp;Techs Stack!
 ![Golang](https://img.shields.io/badge/-go-05122A?style=flat&logo=go)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
