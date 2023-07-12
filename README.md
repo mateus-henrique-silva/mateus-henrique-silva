@@ -4,12 +4,13 @@
 - 🔭 Currently working with Backend GO;
 - 💬 Ask me about React JS, Golang, Web, JS, Python;
 
+## &nbsp;Techs Stack!
+
 <div style="display: inline_block">
   <a href="https://github.com/arTiwnl">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arTiwnl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arTiwnl&layout=compact&langs_count=7&theme=dark"/>
 </div>
-## &nbsp;Techs Stack!
 ![Golang](https://img.shields.io/badge/-go-05122A?style=flat&logo=go)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
