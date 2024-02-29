@@ -2,7 +2,7 @@
 
 
 - 🔭 Currently working with Backend GO;
-- 💬 Ask me about React JS, Golang, Web, JS, Python;
+- 💬 Ask me about Golang, React JS, Web, JS, Python;
 
 ## &nbsp;Techs Stack!
 
