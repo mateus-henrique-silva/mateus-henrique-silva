@@ -19,6 +19,7 @@
 ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=sql)&nbsp;
  
 
   ##
