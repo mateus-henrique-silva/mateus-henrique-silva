@@ -22,13 +22,4 @@
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=sql)&nbsp;
  
 
-  ##
-  ## &nbsp;Contact
-<div style="display: flex"> 
- <br>
-  <a href = "mailto:magtash68@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-henrique-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
- 
-</div>
